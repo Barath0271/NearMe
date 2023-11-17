@@ -243,15 +243,21 @@ In its early days, the hospital was housed at the Fort St. George and in the nex
 ```
 
 ## OUTPUT
+![image](https://github.com/Barath0271/NearMe/assets/135820464/6e5cca5e-85aa-41a7-a993-f3cf4cb029a3)
+![image](https://github.com/Barath0271/NearMe/assets/135820464/b1066333-8964-440f-a8ba-68777df1fe2c)
+![image](https://github.com/Barath0271/NearMe/assets/135820464/33c87981-f11c-41e2-87e3-ef9e2acdfd14)
+![image](https://github.com/Barath0271/NearMe/assets/135820464/8a55871d-c103-4363-ad61-1bcb8f53fc60)
+![image](https://github.com/Barath0271/NearMe/assets/135820464/a7f49caa-fe22-496d-b7d9-abf8c5a92024)
+![image](https://github.com/Barath0271/NearMe/assets/135820464/ae88d4ef-9acf-4792-8845-129aaaae6b59)
 
 
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-![Alt text](image-5.png)
+
+
+
+
+
+
 
 
 
